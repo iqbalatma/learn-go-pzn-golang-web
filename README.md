@@ -11,3 +11,5 @@ handler function does not support multiple endpoint
 we can use alternative for handler with ServerMux
 
 Longer url pattern will be priority to execute
+
+Header is not case sensitive
